@@ -47,7 +47,7 @@
 		<dc:subject id="subject-6">Teacher-student relationships -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-6">LCHS</meta>
 		<meta property="term" refines="#subject-6">sh2008112611</meta>
-		<meta property="se:subject">TAG</meta>
+		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">As a middle-age professor moves houses, he contemplates the legacy of his most brilliant student.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;A prestigious award gives Godfrey St. Peter the funds to buy a new house, but he’s reluctant to let go of his old one. His wife and two daughters welcome the change, seeing it as a well-deserved step up in the world. St. Peter instead focuses his attention on editing the journals of Tom Outland, his former student and would-be son-in-law before his life was taken in the Great War. As Outland’s own story unfolds, St. Peter finds himself too consumed by what could have been to move forward.&lt;/p&gt;
@@ -69,7 +69,7 @@
 		<dc:contributor id="artist">Francis John McComas</dc:contributor>
 		<meta property="file-as" refines="#artist">McComas, Francis John</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Francis_McComas_(painter)</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/no2009077756.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/no2009077756</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Laura Natal Rodrigues</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Rodrigues, Laura Natal</meta>
