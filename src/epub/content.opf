@@ -48,35 +48,34 @@
 		<meta property="authority" refines="#subject-6">LCHS</meta>
 		<meta property="term" refines="#subject-6">sh2008112611</meta>
 		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">As a middle-age professor moves houses, he contemplates the legacy of his most brilliant student.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;A prestigious award gives Godfrey St. Peter the funds to buy a new house, but he’s reluctant to let go of his old one. His wife and two daughters welcome the change, seeing it as a well-deserved step up in the world. St. Peter instead focuses his attention on editing the journals of Tom Outland, his former student and would-be son-in-law before his life was taken in the Great War. As Outland’s own story unfolds, St. Peter finds himself too consumed by what could have been to move forward.&lt;/p&gt;
+			&lt;p&gt;Published in 1925, &lt;i&gt;The Professor’s House&lt;/i&gt; remains one of &lt;a href="https://standardebooks.org/ebooks/willa-cather"&gt;Willa Cather’s&lt;/a&gt; most understated works. While initially received poorly, it has since risen in stature as one of Cather’s most formally inventive novels.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/65465</dc:source>
-		<dc:source>PAGE_SCANS_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/professorshouse0000cath_d6i7/</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Professor%27s_House</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/willa-cather_the-professors-house</meta>
 		<dc:creator id="author">Willa Cather</dc:creator>
 		<meta property="file-as" refines="#author">Cather, Willa</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Willa Sibert Cather</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Willa_Cather</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80015717</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST_NAME</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Francis John McComas</dc:contributor>
+		<meta property="file-as" refines="#artist">McComas, Francis John</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Francis_McComas_(painter)</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/no2009077756.html</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">Laura Natal Rodrigues at Free Literature</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_1_SORT</meta>
+		<dc:contributor id="transcriber-1">Laura Natal Rodrigues</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Rodrigues, Laura Natal</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER_NAME</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Dylan Cook</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Cook, Dylan</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
