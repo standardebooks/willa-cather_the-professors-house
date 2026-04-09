@@ -69,7 +69,7 @@
 		<dc:contributor id="artist">Francis John McComas</dc:contributor>
 		<meta property="file-as" refines="#artist">McComas, Francis John</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Francis_McComas_(painter)</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/no2009077756</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/no2009077756</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Laura Natal Rodrigues</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Rodrigues, Laura Natal</meta>
