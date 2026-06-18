@@ -86,3 +86,12 @@ section[epub|type~="epigraph"] > *{
     display: block;
 }
 /* End Poetry*/
+
+
+/* Quotations */
+
+q {
+	font-style: italic;
+}
+
+/* End quotations */
