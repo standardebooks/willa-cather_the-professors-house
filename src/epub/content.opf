@@ -30,22 +30,22 @@
 		<dc:title id="title">The Professor’s House</dc:title>
 		<meta property="file-as" refines="#title">Professor’s House, The</meta>
 		<dc:subject id="subject-1">Psychological fiction</dc:subject>
-		<meta property="authority" refines="#subject-1">LCHS</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85108438</meta>
 		<dc:subject id="subject-2">Frame stories</dc:subject>
-		<meta property="authority" refines="#subject-2">LCHS</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<dc:subject id="subject-3">College teachers -- Fiction</dc:subject>
-		<meta property="authority" refines="#subject-3">LCHS</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008100052</meta>
 		<dc:subject id="subject-4">Middle-aged men -- Fiction</dc:subject>
-		<meta property="authority" refines="#subject-4">LCHS</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh2008107221</meta>
 		<dc:subject id="subject-5">Midlife crisis -- Fiction</dc:subject>
-		<meta property="authority" refines="#subject-5">LCHS</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh2008107251</meta>
 		<dc:subject id="subject-6">Teacher-student relationships -- Fiction</dc:subject>
-		<meta property="authority" refines="#subject-6">LCHS</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">sh2008112611</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">As a middle-age professor moves houses, he contemplates the legacy of his most brilliant student.</dc:description>
