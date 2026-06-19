@@ -78,16 +78,12 @@ section[epub|type~="epigraph"] > *{
 /* End full-page epigraphs */
 
 /* Poetry */
-[epub|type~="z3998:poem"] p {
+[epub|type~="z3998:verse"] p {
     text-align: initial;
     text-indent: 0;
 }
 
-[epub|type~="z3998:poem"] p > span {
-    display: block;
-}
-
-[epub|type~="z3998:poem"] p > span + br{
+[epub|type~="z3998:verse"] p > span + br{
 	display: none;
 }
 
