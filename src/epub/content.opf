@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-GB">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-GB">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/willa-cather/the-professors-house</dc:identifier>
 		<dc:date>2026-06-19T18:51:08Z</dc:date>
 		<meta property="dcterms:modified">2026-06-19T18:51:08Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
+		<meta property="rdf:type">http://schema.org/Book</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
-		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org/</meta>
+		<link href="https://standardebooks.org/" refines="#publisher" rel="schema:url"/>
 		<meta property="role" refines="#publisher" scheme="marc:relators">bkd</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">mdc</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">pbl</meta>
 		<dc:contributor id="type-designer">The League of Moveable Type</dc:contributor>
 		<meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
-		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com/</meta>
+		<link href="https://www.theleagueofmoveabletype.com/" refines="#type-designer" rel="schema:url"/>
 		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
 		<meta id="conformance-statement" property="dcterms:conformsTo">EPUB Accessibility 1.1 - WCAG 2.2 Level AA</meta>
 		<meta property="a11y:certifiedBy" refines="#conformance-statement">Standard Ebooks</meta>
@@ -47,7 +48,7 @@
 		<dc:subject id="subject-6">Teacher-student relationships -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">sh2008112611</meta>
-		<meta property="se:subject">Fiction</meta>
+		<meta property="schema:genre">Fiction</meta>
 		<dc:description id="description">As a middle-age professor moves house, he contemplates the legacy of his most brilliant student.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;A prestigious award gives the middle-aged professor Godfrey St. Peter the funds to buy a new house, but he’s reluctant to let go of his old one. His wife and two daughters welcome the change, seeing it as a well-deserved step up in the world. St. Peter instead focuses his attention on editing the journals of Tom Outland, his former student and would-be son-in-law—before his life was taken in the Great War. As Outland’s own story unfolds, St. Peter finds himself too consumed by what could have been to move forward.&lt;/p&gt;
@@ -56,21 +57,23 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/65465</dc:source>
 		<dc:source>https://archive.org/details/professorshouse0000cath_d6i7</dc:source>
-		<meta property="se:word-count">60463</meta>
-		<meta property="se:reading-ease.flesch">72.56</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Professor%27s_House</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/willa-cather_the-professors-house</meta>
+		<meta property="schema:wordCount">60463</meta>
+		<meta property="schema:educationalLevel">72.56</meta>
+		<link href="https://en.wikipedia.org/wiki/The_Professor%27s_House" rel="schema:sameAs"/>
+		<meta property="schema:workExample" id="vcs-repository">schema:workExample</meta>
+		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
+		<link href="https://github.com/standardebooks/willa-cather_the-professors-house" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Willa Cather</dc:creator>
 		<meta property="file-as" refines="#author">Cather, Willa</meta>
-		<meta property="se:name.person.full-name" refines="#author">Willa Sibert Cather</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Willa_Cather</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80015717</meta>
+		<meta property="schema:alternateName" refines="#author">Willa Sibert Cather</meta>
+		<link href="https://en.wikipedia.org/wiki/Willa_Cather" refines="#author" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n80015717.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">dto</meta>
 		<dc:contributor id="artist">Francis John McComas</dc:contributor>
 		<meta property="file-as" refines="#artist">McComas, Francis John</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Francis_McComas_(painter)</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/no2009077756</meta>
+		<link href="https://en.wikipedia.org/wiki/Francis_McComas_(painter)" refines="#artist" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/no2009077756.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Laura Natal Rodrigues</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Rodrigues, Laura Natal</meta>
@@ -85,7 +88,7 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<dc:contributor id="producer-2">Vince Rice</dc:contributor>
 		<meta property="file-as" refines="#producer-2">Rice, Vince</meta>
-		<meta property="se:url.homepage" refines="#producer-2">https://www.brokenandsaved.com/</meta>
+		<link href="https://www.brokenandsaved.com/" refines="#producer-2" rel="schema:url"/>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
