@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-GB">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-GB">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/willa-cather/the-professors-house</dc:identifier>
 		<dc:date>2026-06-19T18:51:08Z</dc:date>
@@ -49,11 +49,11 @@
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">sh2008112611</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">As a middle-age professor moves house, he contemplates the legacy of his most brilliant student.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>As a middle-age professor moves house, he contemplates the legacy of his most brilliant student.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;A prestigious award gives the middle-aged professor Godfrey St. Peter the funds to buy a new house, but he’s reluctant to let go of his old one. His wife and two daughters welcome the change, seeing it as a well-deserved step up in the world. St. Peter instead focuses his attention on editing the journals of Tom Outland, his former student and would-be son-in-law—before his life was taken in the Great War. As Outland’s own story unfolds, St. Peter finds himself too consumed by what could have been to move forward.&lt;/p&gt;
 			&lt;p&gt;Published in 1925, &lt;i&gt;The Professor’s House&lt;/i&gt; remains one of &lt;a href="https://standardebooks.org/ebooks/willa-cather"&gt;Willa Cather’s&lt;/a&gt; most understated works. While initially received poorly, it has since risen in stature as one of Cather’s most formally inventive novels.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/65465</dc:source>
 		<dc:source>https://archive.org/details/professorshouse0000cath_d6i7</dc:source>
