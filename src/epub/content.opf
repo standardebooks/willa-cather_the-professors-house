@@ -49,7 +49,7 @@
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">sh2008112611</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>As a middle-age professor moves house, he contemplates the legacy of his most brilliant student.</dc:abstract>
+		<meta property="schema:abstract">As a middle-age professor moves house, he contemplates the legacy of his most brilliant student.</meta>
 		<dc:description>
 			&lt;p&gt;A prestigious award gives the middle-aged professor Godfrey St. Peter the funds to buy a new house, but he’s reluctant to let go of his old one. His wife and two daughters welcome the change, seeing it as a well-deserved step up in the world. St. Peter instead focuses his attention on editing the journals of Tom Outland, his former student and would-be son-in-law—before his life was taken in the Great War. As Outland’s own story unfolds, St. Peter finds himself too consumed by what could have been to move forward.&lt;/p&gt;
 			&lt;p&gt;Published in 1925, &lt;i&gt;The Professor’s House&lt;/i&gt; remains one of &lt;a href="https://standardebooks.org/ebooks/willa-cather"&gt;Willa Cather’s&lt;/a&gt; most understated works. While initially received poorly, it has since risen in stature as one of Cather’s most formally inventive novels.&lt;/p&gt;
